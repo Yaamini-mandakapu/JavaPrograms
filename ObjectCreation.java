@@ -1,4 +1,4 @@
-package com.javaprograms.java;
+package StarPatterns;
 
 public class ObjectCreation {
 
